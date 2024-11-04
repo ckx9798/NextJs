@@ -24,54 +24,74 @@ https://taskify-sepia.vercel.app/
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="https://github.com/user-attachments/assets/46f49e99-3102-41f9-9af0-8b301b31be87" width="200px;"/><br /><sub><b>FE 팀장 : 이재서</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://velog.velcdn.com/images/ckx9798/post/6dccc51a-c054-4382-8f18-aa74c9dc8052/image.png" width="200px;" /><br /><sub><b>FE 팀원 : 김태준 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="200px;" /><br /><sub><b>FE 팀원 : 김민준</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://velog.velcdn.com/images/ckx9798/post/5962b4c5-2b88-4561-b3f2-f8274d669190/image.png" width="200px;"/><br /><sub><b>FE 팀원 : 정우영</b></sub></a><br /></td>
-     <tr/>
-         <td style="width: 200px; height: 200px; text-align: left; vertical-align: top;">
-      - 컬럼, 멤버스 API<br>
-      - 할 일 생성 / 수정 모달창 제작<br>
-      - 드래그 앤 드롭 구현<br>
-      - 컬럼 관리/생성 모달창<br>
-      - 대시보드 초대하기 모달창<br>
-      - 회원가입 페이지 제작<br>
-      - 랜딩 페이지 제작<br>
-      - edit 페이지 제작<br>
-      
-    </td>
-    <td style="width: 200px; height: 200px; text-align: left; vertical-align: top;">
-      - 로그인, 회원가입 페이지 제작<br>
-      - 멤버스, 유저스, 인비테이션 API<br>
-      - 초대목록 카드테이블 제작<br>
-      - 인포 컴포넌트 제작<br>
-      - 원 버튼 모달창 제작<br>
-      - QA를 통한 사용자 경험 증대
-      
-    </td>
-    <td style="width: 200px; height: 200px; text-align: left; vertical-align: top;">
-      - 로그인, 카드 API<br>
-      - 로그아웃 기능 구현<br>
-      - My 페이지 구현<br>
-      - My 대시보드 페이지 구현<br>
-      - 404페이지 제작<br>
-      - 사이드바 제작<br>
-      - 프로필 카드 제작<br>
-      - 비밀번호 변경 카드 제작<br>
-      - 추가하기 버튼(공통) 제작
-    </td>
-    <td style="width: 200px; height: 200px; text-align: left; vertical-align: top;">
-      - 대시보드 API<br>
-      - 네비게이션 제작<br>
-      - 대시보드 일정 카드 제작<br>
-      - 멤버 목록 제작<br>
-      - 대시보드 페이지 구현<br>
-      - 박스버튼(공통) 제작<br>
-      - pagination 버튼(공통) 제작
-    </td>
+      <td align="center">
+        <a href="">
+          <img src="https://github.com/user-attachments/assets/46f49e99-3102-41f9-9af0-8b301b31be87" width="200px;" /><br />
+          <sub><b>FE 팀장 : 이재서</b></sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="">
+          <img src="https://velog.velcdn.com/images/ckx9798/post/6dccc51a-c054-4382-8f18-aa74c9dc8052/image.png" width="200px;" /><br />
+          <sub><b>FE 팀원 : 김태준</b></sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="">
+          <img src="" width="200px;" /><br />
+          <sub><b>FE 팀원 : 김민준</b></sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="">
+          <img src="https://velog.velcdn.com/images/ckx9798/post/5962b4c5-2b88-4561-b3f2-f8274d669190/image.png" width="200px;" /><br />
+          <sub><b>FE 팀원 : 정우영</b></sub>
+        </a><br />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        - 컬럼, 멤버스 API<br>
+        - 할 일 생성 / 수정 모달창 제작<br>
+        - 드래그 앤 드롭 구현<br>
+        - 컬럼 관리/생성 모달창<br>
+        - 대시보드 초대하기 모달창<br>
+        - 회원가입 페이지 제작<br>
+        - 랜딩 페이지 제작<br>
+        - edit 페이지 제작
+      </td>
+      <td align="left">
+        - 로그인, 회원가입 페이지 제작<br>
+        - 멤버스, 유저스, 인비테이션 API<br>
+        - 초대목록 카드테이블 제작<br>
+        - 인포 컴포넌트 제작<br>
+        - 원 버튼 모달창 제작<br>
+        - QA를 통한 사용자 경험 증대
+      </td>
+      <td align="left">
+        - 로그인, 카드 API<br>
+        - 로그아웃 기능 구현<br>
+        - My 페이지 구현<br>
+        - My 대시보드 페이지 구현<br>
+        - 404페이지 제작<br>
+        - 사이드바 제작<br>
+        - 프로필 카드 제작<br>
+        - 비밀번호 변경 카드 제작<br>
+        - 추가하기 버튼(공통) 제작
+      </td>
+      <td align="left">
+        - 대시보드 API<br>
+        - 네비게이션 제작<br>
+        - 대시보드 일정 카드 제작<br>
+        - 멤버 목록 제작<br>
+        - 대시보드 페이지 구현<br>
+        - 박스버튼(공통) 제작<br>
+        - pagination 버튼(공통) 제작
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 <br/>
 
@@ -194,18 +214,18 @@ https://taskify-sepia.vercel.app/
 
 -   회원가입
 
-![회원가입](https://github.com/user-attachments/assets/b8b488f3-8ad0-4b33-841d-5f8dbadcfaac)
+![회원가입2](https://github.com/user-attachments/assets/63d26bbb-b8d3-4754-a6fc-75c11276ddb6)
 
 
 
 -  마이 대시보드 페이지
 
-![마이대시보드](https://github.com/user-attachments/assets/34d1791d-1972-46ac-9d0e-91b2e72e9ddb)
+![마이대시보드2](https://github.com/user-attachments/assets/9ee59ef5-19fd-49a2-a296-fb889d4e7c4d)
 
 
 -   마이페이지
 
-![마이페이지](https://github.com/user-attachments/assets/7c4dc9bb-0a21-4907-9a39-8d86ded82476)
+![마이페이지2](https://github.com/user-attachments/assets/b8217d15-5b72-4571-ae07-3d06d90a3921)
 
 
 -   대시보드 삭제하기
