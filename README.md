@@ -188,7 +188,7 @@ https://taskify-sepia.vercel.app/
 
 -   크레딧 충전하기
 
-![충전하기](https://github.com/user-attachments/assets/06f46290-5309-42ea-9ed3-c2460291bdb2)
+![로그인](https://github.com/user-attachments/assets/7625f949-b5b6-47b8-bc37-b6c20d5d459c)
 
 
 -   충전된 크레딧으로 후원하기
