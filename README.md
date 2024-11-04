@@ -38,7 +38,7 @@ https://taskify-sepia.vercel.app/
       </td>
       <td align="center">
         <a href="">
-          <img src="" width="200px;" /><br />
+          <img src="https://velog.velcdn.com/images/ckx9798/post/48ceb8e4-2ee7-4b25-8fe1-ad9879a7a546/image.jfif" width="200px;" /><br />
           <sub><b>FE 팀원 : 김민준</b></sub>
         </a><br />
       </td>
@@ -98,20 +98,17 @@ https://taskify-sepia.vercel.app/
 # 기술 스택
 
 ### ✔️Frond-end
-<div align=center>
-	<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <br>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <br>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-  	<br>
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
 
 
 <br/>
