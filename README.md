@@ -1,6 +1,6 @@
 # Fondom-K
 
-![image](https://github.com/user-attachments/assets/f5fa4999-693e-437e-baf1-50458ee29155)
+![image](https://github.com/user-attachments/assets/ddf09ca2-766b-4854-a0b4-1ef5f379c419)
 
 <br/>
 
@@ -167,13 +167,13 @@ https://taskify-sepia.vercel.app/
 
 ### 마이 페이지
 
-'+' 버튼을 누르면 이미지를 업로드 할 수 있습니다.
-이메일은 수정할 수 없습니다.
-닉네임 또는 이미지를 바꾸고 '저장' 버튼을 누르면 정보가 수정됩니다.
-세 비밀번호 확인 input에서 focus out 일때 새 비밀번호 input 값과 다를 경우 비밀번호 input에 빨간색 테두리와 아래에 “비밀번호가 일치하지않습니다” 빨강색 에러 메세지가 보입니다.
-모든 input이 채워지면 '변경' 버튼이 활성화 됩니다.
-'변경' 버튼을 눌렀을때 현재 비밀번호 값이 틀리면 “현재 비밀번호가 틀립니다” 경고창이 나타납니다.
-정확한 현재 비밀번호 값을 입력하고 '변경' 버튼을 누르면 비밀번호가 변경이 됩니다.
+- '+' 버튼을 누르면 이미지를 업로드 할 수 있습니다.
+- 이메일은 수정할 수 없습니다.
+- 닉네임 또는 이미지를 바꾸고 '저장' 버튼을 누르면 정보가 수정됩니다.
+- 세 비밀번호 확인 input에서 focus out 일때 새 비밀번호 input 값과 다를 경우 비밀번호 input에 빨간색 테두리와 아래에 “비밀번호가 일치하지않습니다” 빨강색 에러 메세지가 보입니다.
+- 모든 input이 채워지면 '변경' 버튼이 활성화 됩니다.
+- '변경' 버튼을 눌렀을때 현재 비밀번호 값이 틀리면 “현재 비밀번호가 틀립니다” 경고창이 나타납니다.
+- 정확한 현재 비밀번호 값을 입력하고 '변경' 버튼을 누르면 비밀번호가 변경이 됩니다.
 
 <br/>
 
@@ -188,7 +188,7 @@ https://taskify-sepia.vercel.app/
 
 -   로그인
 
-![로그인](https://github.com/user-attachments/assets/79e1de35-6775-400b-b46e-6cbb098b52aa)
+![로그인2](https://github.com/user-attachments/assets/4d064fbc-12e9-4bb9-b458-ccf2020903a0)
 
 
 
@@ -213,11 +213,11 @@ https://taskify-sepia.vercel.app/
 ![대시보드 삭제](https://github.com/user-attachments/assets/cbaab611-b2c9-4449-9140-a60919508d7f)
 
 - 할일 생성
-- 
+  
 ![할일생성](https://github.com/user-attachments/assets/3946c130-aaaa-4814-9c80-1f9d46202efd)
 
 - 할일 삭제
-- 
+  
 ![할일 삭제](https://github.com/user-attachments/assets/a60b3dda-694b-48ee-a976-a9f89ecc0879)
 
   
