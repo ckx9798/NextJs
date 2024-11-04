@@ -183,38 +183,42 @@ https://taskify-sepia.vercel.app/
 
 -   랜딩페이지
 
-![랜딩](https://github.com/user-attachments/assets/3f5d6d0b-4ef4-4ced-83a2-2210214bd056)
+![랜딩](https://github.com/user-attachments/assets/9483ca03-af2a-492e-bc6b-910a58628e39)
 
 
--   크레딧 충전하기
+-   로그인
 
-![로그인](https://github.com/user-attachments/assets/7625f949-b5b6-47b8-bc37-b6c20d5d459c)
-
-
--   충전된 크레딧으로 후원하기
-
-![후원하기](https://github.com/user-attachments/assets/6cf4cda3-214a-46c7-a053-bb5f437e754b)
+![로그인](https://github.com/user-attachments/assets/79e1de35-6775-400b-b46e-6cbb098b52aa)
 
 
--   투표 순위를 볼 수 있는 이달의 차트
 
-![차트](https://github.com/user-attachments/assets/4d57f714-d87d-4e04-817a-75c5d9804587)
+-   회원가입
 
-
--   충전된 크레딧으로 투표하기
-
-![투표하기](https://github.com/user-attachments/assets/72d1e1ba-47e7-4d93-8dff-a584dd9c6c8a)
+![회원가입](https://github.com/user-attachments/assets/b8b488f3-8ad0-4b33-841d-5f8dbadcfaac)
 
 
--   관심있는 아이돌을 추가 할 수 있는 마이페이지
 
-![마이페이지](https://github.com/user-attachments/assets/07727ce9-bcf6-4246-9acf-2be1a50425f0)
+-  마이 대시보드 페이지
 
-![마이페이지 반응형](https://github.com/user-attachments/assets/d8d47cf5-2f18-4947-8848-4b707acdd85b)
+![마이대시보드](https://github.com/user-attachments/assets/34d1791d-1972-46ac-9d0e-91b2e72e9ddb)
+
+
+-   마이페이지
+
+![마이페이지](https://github.com/user-attachments/assets/7c4dc9bb-0a21-4907-9a39-8d86ded82476)
+
+
+-   대시보드 삭제하기
+
+![대시보드 삭제](https://github.com/user-attachments/assets/cbaab611-b2c9-4449-9140-a60919508d7f)
+
+- 할일 생성
+- 
+![할일생성](https://github.com/user-attachments/assets/3946c130-aaaa-4814-9c80-1f9d46202efd)
+
+- 할일 삭제
+- 
+![할일 삭제](https://github.com/user-attachments/assets/a60b3dda-694b-48ee-a976-a9f89ecc0879)
 
   
--   데이터 받아 오기 실패 시 에러메시지 출력
-
-![오류](https://github.com/user-attachments/assets/c5b79c83-ea75-4b82-82eb-4012d65af6ca)
-
 <br/>
