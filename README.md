@@ -38,7 +38,7 @@ https://taskify-sepia.vercel.app/
       </td>
       <td align="center">
         <a href="">
-          <img src="https://velog.velcdn.com/images/ckx9798/post/48ceb8e4-2ee7-4b25-8fe1-ad9879a7a546/image.jfif" width="200px;" /><br />
+          <img src="https://github.com/user-attachments/assets/653d7dae-0284-4072-bd4e-b04a9f94d878" width="200px;" /><br />
           <sub><b>FE 팀원 : 김민준</b></sub>
         </a><br />
       </td>
